@@ -1,7 +1,7 @@
-.vs
-*.cache
-*.suo
-/*/bin/*
-/*/obj/*
-/packages/
+**.vs
+**.cache
+**.suo
+**/bin/*
+**/obj/*
+**/packages/
 
