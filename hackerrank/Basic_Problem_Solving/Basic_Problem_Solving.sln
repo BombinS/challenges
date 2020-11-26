@@ -25,15 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_common_child", "10_commo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_grading_students", "11_grading_students\11_grading_students.csproj", "{970150A8-3FDC-4277-8BE3-62FAC5308DC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_apple_and_orange", "12_apple_and_orange\12_apple_and_orange.csproj", "{0F87BC19-257D-4AFA-A8F4-452253EACD9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_apple_and_orange", "12_apple_and_orange\12_apple_and_orange.csproj", "{0F87BC19-257D-4AFA-A8F4-452253EACD9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_number_line_jumps", "13_number_line_jumps\13_number_line_jumps.csproj", "{1BD22291-5F35-4E1C-BEA4-355BCD52EE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_number_line_jumps", "13_number_line_jumps\13_number_line_jumps.csproj", "{1BD22291-5F35-4E1C-BEA4-355BCD52EE67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_best_worst_records", "14_best_worst_records\14_best_worst_records.csproj", "{99F3EEC5-934C-4012-A9D3-5DFEB2475263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_best_worst_records", "14_best_worst_records\14_best_worst_records.csproj", "{99F3EEC5-934C-4012-A9D3-5DFEB2475263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_birthday_bar", "15_birthday_bar\15_birthday_bar.csproj", "{BEB32064-BCA3-4BD4-86C4-BE2BC5DE6DEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_birthday_bar", "15_birthday_bar\15_birthday_bar.csproj", "{BEB32064-BCA3-4BD4-86C4-BE2BC5DE6DEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_divisible_sum_of_pair", "divisible_sum_of_pair\16_divisible_sum_of_pair.csproj", "{68B739C3-A66A-44D1-8525-2610534E225A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_divisible_sum_of_pair", "divisible_sum_of_pair\16_divisible_sum_of_pair.csproj", "{68B739C3-A66A-44D1-8525-2610534E225A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_migratory_birds", "17_migratory_birds\17_migratory_birds.csproj", "{DA8D87B7-78FD-4B89-ACAB-46F5F77EC3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_day_of_the_programmer", "18_day_of_the_programmer\18_day_of_the_programmer.csproj", "{53B1809C-69CC-4921-9E39-6430A46E5F0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{68B739C3-A66A-44D1-8525-2610534E225A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B739C3-A66A-44D1-8525-2610534E225A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B739C3-A66A-44D1-8525-2610534E225A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA8D87B7-78FD-4B89-ACAB-46F5F77EC3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8D87B7-78FD-4B89-ACAB-46F5F77EC3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8D87B7-78FD-4B89-ACAB-46F5F77EC3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8D87B7-78FD-4B89-ACAB-46F5F77EC3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B1809C-69CC-4921-9E39-6430A46E5F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B1809C-69CC-4921-9E39-6430A46E5F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B1809C-69CC-4921-9E39-6430A46E5F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B1809C-69CC-4921-9E39-6430A46E5F0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
