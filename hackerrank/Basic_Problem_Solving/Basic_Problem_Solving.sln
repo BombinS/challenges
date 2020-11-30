@@ -45,13 +45,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20_drawing_book", "20_drawi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21_manasa_and_stones", "21_manasa_and_stones\21_manasa_and_stones.csproj", "{6322D0F0-EBB1-44D7-9590-65136F92C84F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_save_the_prisoner", "22_save_the_prisoner\22_save_the_prisoner.csproj", "{BD7F2F07-E7B6-4133-B00E-06396E28ABF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22_save_the_prisoner", "22_save_the_prisoner\22_save_the_prisoner.csproj", "{BD7F2F07-E7B6-4133-B00E-06396E28ABF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23_find_digits", "23_find_digits\23_find_digits.csproj", "{279A44E8-CBA6-4392-B4C0-037EF1D83F22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23_find_digits", "23_find_digits\23_find_digits.csproj", "{279A44E8-CBA6-4392-B4C0-037EF1D83F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24_picking_numbers", "24_picking_numbers\24_picking_numbers.csproj", "{933336B3-4766-4B7F-8068-FFF6FBC73D9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24_picking_numbers", "24_picking_numbers\24_picking_numbers.csproj", "{933336B3-4766-4B7F-8068-FFF6FBC73D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_cats_and_mouse", "25_cats_and_mouse\25_cats_and_mouse.csproj", "{AE02BA95-EA3D-4B72-948C-59DA5A4D1F86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25_cats_and_mouse", "25_cats_and_mouse\25_cats_and_mouse.csproj", "{AE02BA95-EA3D-4B72-948C-59DA5A4D1F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26_counting_valleys", "26_counting_valleys\26_counting_valleys.csproj", "{E2E7E646-73D8-4F6A-B0E3-6AF4F45FCF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27_hurdle_race", "27_hurdle_race\27_hurdle_race.csproj", "{B94761DD-6A17-4D1A-B248-96C1542CD9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_designer_pdf_viewer", "28_designer_pdf_viewer\28_designer_pdf_viewer.csproj", "{98D021EF-C05D-4B2B-B155-2C0B5E6E6D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29_electronics_shop", "29_electronics_shop\29_electronics_shop.csproj", "{2C25E139-6A4A-4F4E-85FB-05C10B773429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30_utopian_tree", "30_utopian_tree\30_utopian_tree.csproj", "{690D134C-BD32-45AA-8310-125B94A70394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31_beautiful_days", "31_beautiful_days\31_beautiful_days.csproj", "{044AE4D5-0AD0-4D70-BC1A-62F2F456D68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32_angry_professor", "32_angry_professor\32_angry_professor.csproj", "{049AF441-435C-4395-8051-D662B40DCFEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_circular_array_rotation", "33_circular_array_rotation\33_circular_array_rotation.csproj", "{8607430F-4CB2-4829-A10D-0F59843CF8EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +175,38 @@ Global
 		{AE02BA95-EA3D-4B72-948C-59DA5A4D1F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE02BA95-EA3D-4B72-948C-59DA5A4D1F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE02BA95-EA3D-4B72-948C-59DA5A4D1F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E7E646-73D8-4F6A-B0E3-6AF4F45FCF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E7E646-73D8-4F6A-B0E3-6AF4F45FCF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E7E646-73D8-4F6A-B0E3-6AF4F45FCF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E7E646-73D8-4F6A-B0E3-6AF4F45FCF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94761DD-6A17-4D1A-B248-96C1542CD9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94761DD-6A17-4D1A-B248-96C1542CD9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94761DD-6A17-4D1A-B248-96C1542CD9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94761DD-6A17-4D1A-B248-96C1542CD9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D021EF-C05D-4B2B-B155-2C0B5E6E6D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D021EF-C05D-4B2B-B155-2C0B5E6E6D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D021EF-C05D-4B2B-B155-2C0B5E6E6D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D021EF-C05D-4B2B-B155-2C0B5E6E6D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C25E139-6A4A-4F4E-85FB-05C10B773429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C25E139-6A4A-4F4E-85FB-05C10B773429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C25E139-6A4A-4F4E-85FB-05C10B773429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C25E139-6A4A-4F4E-85FB-05C10B773429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690D134C-BD32-45AA-8310-125B94A70394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690D134C-BD32-45AA-8310-125B94A70394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690D134C-BD32-45AA-8310-125B94A70394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690D134C-BD32-45AA-8310-125B94A70394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044AE4D5-0AD0-4D70-BC1A-62F2F456D68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044AE4D5-0AD0-4D70-BC1A-62F2F456D68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044AE4D5-0AD0-4D70-BC1A-62F2F456D68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044AE4D5-0AD0-4D70-BC1A-62F2F456D68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049AF441-435C-4395-8051-D662B40DCFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049AF441-435C-4395-8051-D662B40DCFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049AF441-435C-4395-8051-D662B40DCFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049AF441-435C-4395-8051-D662B40DCFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8607430F-4CB2-4829-A10D-0F59843CF8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8607430F-4CB2-4829-A10D-0F59843CF8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8607430F-4CB2-4829-A10D-0F59843CF8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8607430F-4CB2-4829-A10D-0F59843CF8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
